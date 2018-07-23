@@ -1,6 +1,6 @@
 Author: Sharan Kumar Ravindran
 <br />
-Walmart Store Sales Forecasting
+<b>Walmart Store Sales Forecasting</b>
 <br />
 This code contain the basic version of the core R scripts used for forecasting in the kaggle conpetition
 <br />
