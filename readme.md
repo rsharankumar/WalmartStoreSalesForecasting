@@ -13,5 +13,5 @@ https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting
 <br />
 Since the code used for the data preprocessing and actual model building has been lost, just uploading the basic version of the forecast model used.
 <br />
-My ranking in this contest: 58/691 ( In the top 10%)
+<b>My ranking in this contest: 58/691 ( In the top 10%)</b>
 
